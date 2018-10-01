@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">StartUp</string>
+    <string name="your_age_shows_here">Your age shows here</string>
+    <string name="get_my_age">Get my Age</string>
+    <string name="enter_dob">Enter DOB</string>
+</resources>
